@@ -1,0 +1,6 @@
+@DriveGoogleAPi_HostAddress = http://localhost:5007
+
+GET {{DriveGoogleAPi_HostAddress}}/GoogleDriveService/
+Accept: application/json
+
+###
